@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Files I used for the design
+./devconnector_theme
+
